@@ -89,7 +89,7 @@ begin
 	-- CONCURRENT STATEMENTS --------
 	w_Cin <= sw(0);
 	w_A <= sw(4 downto 1);
-	w_B <= sw(15downto 12);
+	w_B <= sw(15 downto 12);
 	
 	led(3 downto 0) <= w_S;
 	led(15) <= w_Cout;
