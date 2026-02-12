@@ -25,3 +25,8 @@ Assert statements of other severity levels will be reported, but not fail the wo
 
 
 ![ripple adder waveform](ripple_waveform.png)
+
+### Documentation ###
+
+Consulted classmate C3C Elijah Sakamoto in class 02/12 for basic help regarding format of code
+Consulted a generative AI (ChatGPT) for help with the general use of a command, no code was copied or pasted from there
