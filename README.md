@@ -26,6 +26,8 @@ Assert statements of other severity levels will be reported, but not fail the wo
 
 ![ripple adder waveform](ripple_waveform.png)
 
+![basys entity sketch](circuitsketch.png)
+
 ### Documentation ###
 
 Consulted classmate C3C Elijah Sakamoto in class 02/12 for basic help regarding format of code
